@@ -3,7 +3,7 @@
 
 
 
-NOTE: You can run and edit the Simple Project or contribute to them using Gitpod.io, a free online development environment, with a single click.
+NOTE: You can run and edit the project or contribute to them using Gitpod.io, a free online development environment, with a single click.
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/conganhhcmus/Caro-Game/)
 
