@@ -12,7 +12,7 @@ using namespace std;
 #define BOARD_SIZE 13
 #define LEFT 1
 #define TOP 1
-#define TIME 60
+#define TIME 2 //default 30min 30*60 s
 
 _Game g(BOARD_SIZE, LEFT, TOP);
 
@@ -33,11 +33,6 @@ int main(int argc, char* argv[])
 	srand(time(NULL));
 	_Common::fixConsoleWindow();
 	Menu(0, true, true, false);
-	
-	/*
-	system("pause");
-	_Common::gotoXY(50, 14);
-	*/
 	return 0;
 }
 
