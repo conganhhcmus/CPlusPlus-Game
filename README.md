@@ -5,7 +5,7 @@
 
 NOTE: You can run and edit the project or contribute to them using Gitpod.io, a free online development environment, with a single click.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/conganhhcmus/Caro-Game/)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/conganhhcmus/CPlusPlus-GameCaro/)
 
 
 ### Projects are implemented in C++ (for educational purposes only)
